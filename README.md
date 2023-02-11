@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sewmini Premodya</h1>
 <h3 align="center">A passionate Software Developer from SriLanka</h3>
-
+<img src="https://tse3.mm.bing.net/th?id=OIP.pi7R5zlScKJSA7D7XwAVdQHaG-&pid=Api&P=0">
 - 🌱 I’m currently learning **internet technologies**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MYSQL,JAVA**
